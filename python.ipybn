@@ -1,0 +1,9 @@
+ticket_prize = 101
+wallet_size = 100 
+if ticket_prize <= wallet_size:
+    print("You can buy the ticket")
+else: 
+    print("you cannot buy the tickets")
+    
+ #variables
+100 + 25 + 50
