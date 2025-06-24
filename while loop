@@ -1,0 +1,14 @@
+
+#####If Loop Practice#####
+import random
+
+dice = random.randint(1, 6)
+count = 0
+
+while dice !=6:
+    dice = random.randint(1,6)
+    count +=1
+    print(dice)
+
+print("You got a 6")
+print("It took "+ str(count)+ " rolls to get a six")

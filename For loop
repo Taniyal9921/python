@@ -1,0 +1,12 @@
+#####For loop without contidion####
+for i in range (6):
+    print(i)
+print("Mujhe bas itna hi print karvana tha ")
+
+
+#####For loop with condition####
+for i in range (15,30,+1):
+    print(i)
+print("Thats all i wanted to print")
+
+

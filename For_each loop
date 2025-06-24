@@ -1,0 +1,5 @@
+#####Practise ofg For loop in python####
+
+myCar = ["BMW", "Audi", "Mercedes", "Toyota"]
+for Car in myCar:
+    print(Car)
